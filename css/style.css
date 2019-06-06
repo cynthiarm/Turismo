@@ -878,6 +878,13 @@ p.sec-4 {
     min-height: 500px;
 }
 
+
+.slide-banner-2 {
+    background: url(../images/ShrimpFish.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 500px;
+}
+
 /* //slide */
 
 /* blog */
@@ -3278,5 +3285,5 @@ a.wthree_active,.agile_quick_search1 ul.agileits_w3layouts_text li a:hover{
 }
 
 .logo-banner{
-    width: 400px;
+    width: 500px;
 }
