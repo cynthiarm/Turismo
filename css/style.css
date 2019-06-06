@@ -3258,8 +3258,8 @@ a.wthree_active,.agile_quick_search1 ul.agileits_w3layouts_text li a:hover{
 }
 
 .banner{
-    background-color: rgb(0,0,0,.5);
-    background-blend-mode: overlay;
+    /* background-color: rgb(0,0,0,.5);
+    background-blend-mode: overlay; */
 }
 
 
