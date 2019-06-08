@@ -1810,6 +1810,7 @@ p {
 .abt-icon {
     width: 50px;
     height: 50px;
+    margin-left:-10px
 }
 
 .abt-icon span {
@@ -3304,4 +3305,21 @@ a.wthree_active,.agile_quick_search1 ul.agileits_w3layouts_text li a:hover{
     .cognito > form {
         min-width: 450px !important;
     }
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    display: flex;
+    margin: 0;
+    min-height: 100%;
+    flex-direction: column;
+}
+
+.moa-tem_pvt_title, .single_grid_amum-mk_main {
+    flex: 1 1 auto;
 }
